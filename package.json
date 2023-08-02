@@ -1,0 +1,14 @@
+{
+  "name": "FbBot",
+  "version": "1.0.0",
+  "description": "My Facebook chatbot project",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.22.0",
+    "fb-messenger-bot": "^0.0.1",
+    "firebase-admin": "^11.10.1",
+    "path": "^0.12.7"
+  }
+}
